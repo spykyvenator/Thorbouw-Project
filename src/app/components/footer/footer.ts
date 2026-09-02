@@ -121,14 +121,14 @@ export class FooterComponent {
   ];
 
   readonly socialLinks = [
-    {
+    /* {
       id: 'whatsapp',
       icon: `${this.FOOTER_SVG_PATH}/whatsapp.svg`,
       href: 'https://api.whatsapp.com/send?phone=32475530214',
       text: ['WhatsApp'],
       ariaLabel: 'Contact us on WhatsApp',
       alt: 'Whatsapp Icon',
-    },
+    },*/
     {
       id: 'instagram',
       icon: `${this.FOOTER_SVG_PATH}/instagram.svg`,
