@@ -3,7 +3,7 @@ import { TextImageContent } from '../interfaces/text-and-image-content';
 export const TIMELINE_TITLE_AND_DESCRIPTION_AND_BUTTON = {
   title: 'Thorbouw werkwijze process',
   description:
-    'We willen uw ervaringen in de renovatie van uw woning zo goed mogelijk maken. Daarom hebben we een duidelijk proces ontwikkeld dat u stap voor stap begeleidt. Van de eerste kennismaking tot de oplevering en nazorg, we staan altijd klaar om u te ondersteunen en te zorgen dat alles soepel verloopt.',
+    'We willen uw ervaringen in de renovatie van uw woning zo goed mogelijk maken. Daarom hebben we een duidelijk proces ontwikkeld dat u in 4 stappen begeleid. Van de eerste kennismaking tot de oplevering en nazorg, we staan altijd klaar om u te ondersteunen en te zorgen dat alles soepel verloopt.',
   buttonText: 'Lees meer',
   buttonLink: '/werkwijze',
   buttonFragment: 'step-1',
@@ -98,7 +98,7 @@ export const TEXT_AND_IMAGE_CONTENT: TextImageContent[] = [
     imageAlt: 'Foto van een verbouwd huis met zicht van het terras op de tuin',
     blocks: [
       {
-        subtitle: 'Klaar voor een zorgeloze toekomst',
+        subtitle: 'Klaar voor een zorgenloze toekomst',
         description:
           'U krijgt niet alleen een afgewerkt project, maar een duurzame thuis waarin comfort, energie-efficiëntie en levenskwaliteit centraal staan. Een investering waar u jarenlang van geniet.',
       },
