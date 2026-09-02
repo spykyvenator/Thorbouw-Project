@@ -41,7 +41,7 @@ export const ADVIES_SNAKE_CONTENT: ISnakeContent[] = [
   {
     title: 'Voorkom dure fouten',
     subtitle:
-      'Met professioneel bouwkundig advies voorkomt u verkeerde keuzes, onverwachte kosten en technische problemen achteraf.',
+      'Met professioneel bouwkundig advies voorkomt u verkeerde keuzes, onverwachte kosten en technische problemen achteraf. We leiden de weg door een landschap met putten als vendor lock-in, schijnkwaliteit en verborgen kosten.',
   },
   {
     title: 'Slim renoveren',
@@ -61,7 +61,7 @@ export const ADVIES_SNAKE_CONTENT: ISnakeContent[] = [
   {
     title: 'Een partner die meedenkt',
     subtitle:
-      'Wij geloven in samenwerken op lange termijn en begeleiden u alsof het ons eigen project is.',
+      'Wij geloven in samenwerken op lange termijn en werken steeds af alsof het ons eigen project is.',
   },
 ];
 export const ADVIES_SNAKE_IMAGES: ISnakeImage[] = [

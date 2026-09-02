@@ -130,6 +130,14 @@ export class FooterComponent {
       alt: 'Whatsapp Icon',
     },*/
     {
+      id: 'vibe',
+      icon: `${this.FOOTER_SVG_PATH}/VIBE-logo.svg`,
+      href: 'https://https://www.vibe.be/',
+      text: ['Vibe'],
+      ariaLabel: 'Vind ons bij vibe.',
+      alt: 'Vibe Icon',
+    },
+    {
       id: 'instagram',
       icon: `${this.FOOTER_SVG_PATH}/instagram.svg`,
       href: 'https://www.instagram.com/thorbouw/',
