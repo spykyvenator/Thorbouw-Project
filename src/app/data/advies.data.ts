@@ -44,6 +44,11 @@ export const ADVIES_SNAKE_CONTENT: ISnakeContent[] = [
       'Met professioneel bouwkundig advies voorkomt u verkeerde keuzes, onverwachte kosten en technische problemen achteraf. We leiden de weg door een landschap met putten als vendor lock-in, schijnkwaliteit en verborgen kosten.',
   },
   {
+    title: 'Fauna inclusief bouwen',
+    subtitle:
+      'In onze projecten houden we rekening met huidieren en andere dieren in uw omgeving.',
+  },
+  {
     title: 'Slim renoveren',
     subtitle:
       'We denken mee over indeling, isolatie, ventilatie en materiaalkeuzes om uw woning efficiënter en aangenamer te maken.',
