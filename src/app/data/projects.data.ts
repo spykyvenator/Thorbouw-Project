@@ -20,15 +20,15 @@ export const PROJECTS: IProjectContent[] = [
     cardImages: [
       {
         src: '/fotos&realisaties/Wespelaar/Wespelaar001HR.webp',
-        alt: 'Foto van verbouwing in Wespelaar',
+        alt: 'Foto van woonkamer Wespelaar',
       },
       {
         src: '/fotos&realisaties/Wespelaar/Wespelaar002HR.webp',
-        alt: 'Foto van verbouwing in Wespelaar',
+        alt: 'Foto van trap woonkamer Wespelaar',
       },
       {
         src: '/fotos&realisaties/Wespelaar/Wespelaar003HR.webp',
-        alt: 'Foto van verbouwing in Wespelaar',
+        alt: 'Foto van woonkamer Wespelaar',
       },
     ],
     images: [
@@ -274,5 +274,115 @@ export const PROJECTS: IProjectContent[] = [
       },
     ],
     images: IMAGES_VERHOEF,
+  },
+  {
+    slug: 'Engelen',
+    title: 'verbouwing in Engelen',
+    subtitle: 'Modernisering Bad- en slaapkamer',
+    description:
+      'Met ruimtelijk inzicht en de juiste materialen transformeerden we deze kamers.',
+    location: 'Engelen',
+    locationCoord: [4.636699, 50.95818],
+    year: 2014,
+    cardImages: [
+      {
+        src: '/fotos&realisaties/Engelen/Engelen001HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen002HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen003HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+    ],
+    images: [
+      {
+        src: '/fotos&realisaties/Engelen/Engelen001HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen002HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen003HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen004HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen005HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen006HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen007HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen008HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen009HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen010HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen011HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen012HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen013HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen014HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen015HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen016HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen017HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen018HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen019HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen020HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+      {
+        src: '/fotos&realisaties/Engelen/Engelen021HR.webp',
+        alt: 'Foto van verbouwing in Engelen',
+      },
+    ],
   },
 ];
