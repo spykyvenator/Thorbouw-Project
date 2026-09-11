@@ -385,4 +385,98 @@ export const PROJECTS: IProjectContent[] = [
       },
     ],
   },
+  {
+    slug: 'Haasrode',
+    title: 'project in Haasrode',
+    subtitle: 'verbouwing in Haasrode.',
+    description:
+      'Verbouwing van de leef en wasruimten.',
+    location: 'Haasrode',
+    locationCoord: [4.72616, 50.83461],
+    year: 2015,
+    cardImages: [
+      {
+        src: '/fotos&realisaties/Haasrode/4DSF6667.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/5DSF6545.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/6DSF6660.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+    ],
+    images: [
+      {
+        src: '/fotos&realisaties/Haasrode/4DSF6667.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/5DSF6545.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/6DSF6660.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/8DSF6613.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/_DSF6540.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/_DSF6561.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/_DSF6573.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/_DSF6598.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+      {
+        src: '/fotos&realisaties/Haasrode/_DSF6603.webp',
+        alt: 'Foto van verbouwing in Haasrode',
+      },
+    ],
+  },
+  /*
+  {
+    slug: 'Borchpoorte',
+    title: 'project in Borchpoorte',
+    subtitle: 'verbouwing in Borchpoorte.',
+    description:
+      'Verbouwing van de leef en wasruimten.',
+    location: 'Borchpoorte',
+    locationCoord: [4.72616, 50.83461],
+    year: 2015,
+    cardImages: [
+      {
+        src: '/fotos&realisaties/Borchpoorte/DSC_0077.bewerkt.webp',
+        alt: 'Foto van verbouwing in Borchpoorte',
+      },
+      {
+        src: '/fotos&realisaties/Borchpoorte/kant_brussel.webp',
+        alt: 'Foto van verbouwing in Borchpoorte',
+      },
+    ],
+    images: [
+      {
+        src: '/fotos&realisaties/Borchpoorte/DSC_0077.bewerkt.webp',
+        alt: 'Foto van verbouwing in Borchpoorte',
+      },
+      {
+        src: '/fotos&realisaties/Borchpoorte/kant_brussel.webp',
+        alt: 'Foto van verbouwing in Borchpoorte',
+      },
+    ],
+  },
+  */
 ];
