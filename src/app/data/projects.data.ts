@@ -479,4 +479,94 @@ export const PROJECTS: IProjectContent[] = [
     ],
   },
   */
+  {
+    slug: 'Heverlee',
+    title: 'project in Heverlee',
+    subtitle: 'verbouwing in Heverlee.',
+    description:
+      'Inrichting wookamer en verbouwing veranda.',
+    location: 'Heverlee',
+    locationCoord: [4.69872, 50.85272],
+    year: 2015,
+    cardImages: [
+      {
+        src: '/fotos&realisaties/Heverlee/achtergevelvanafpadvoorterras.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/achtergevelvanuitvijver.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/eethoekmetzichtopkeukentelefoonhoekeninkomhall.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+    ],
+    images: [
+      {
+        src: '/fotos&realisaties/Heverlee/achtergevelvanafpadvoorterras.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/achtergevelvanuitvijver.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/eethoekmetzichtopkeukentelefoonhoekeninkomhall.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/interinkomhall2.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/interlivingkast.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/keukenoverzicht.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/living.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/paal.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/paalmeteetkamerkastenzichtkeuken2.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/tweemannekesmetzichtnaaroverloop.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/vanafeettafeloptelefoonhoekeninkomhall.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/vanafvoordeurnaarvijverenterras.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/voordeur.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/voorgevelvierkant.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/zichtoptuindeur.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+      {
+        src: '/fotos&realisaties/Heverlee/zichtvanuitvijveroptafelkleinterras.webp',
+        alt: 'Fotos van verbouwing Heverlee',
+      },
+    ],
+  },
 ];
