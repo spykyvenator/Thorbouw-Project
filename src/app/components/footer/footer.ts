@@ -83,13 +83,13 @@ export class FooterComponent {
   readonly navLinks = [
     { route: '/home', label: 'Home Pagina' },
     { route: '/overThorbouw', label: 'Over Thorbouw' },
-    { route: '/fotos', label: "Foto's & Realisitaties" },
-    { route: '/advies', label: 'Bouwkunding Advies' },
+    { route: '/fotos', label: "Foto's & Realisaties" },
+    { route: '/advies', label: 'Bouwkundig Advies' },
     { route: '/werkwijze', label: 'Werkwijze' },
     { route: '/project', label: 'Projectontwikkiling & Wonen' },
     { route: '/contact', label: 'Contact' },
     { route: '/privacy', label: 'Privacy' },
-    { route: '/voorwaarde', label: 'Algemene Voorwaarde' },
+    { route: '/voorwaarde', label: 'Algemene Voorwaarden' },
     { route: '/sitemap', label: 'Sitemap' },
   ];
 
