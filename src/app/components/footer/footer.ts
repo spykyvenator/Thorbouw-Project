@@ -130,6 +130,14 @@ export class FooterComponent {
       alt: 'Whatsapp Icon',
     },*/
     {
+      id: 'LinkedIn',
+      icon: `${this.FOOTER_SVG_PATH}/LinkedIn.svg`,
+      href: 'https://www.linkedin.com/in/3-100-thorbouw/',
+      text: ['LinkedIn'],
+      ariaLabel: 'Vind ons bij LinkedIn.',
+      alt: 'LinkedIn Icon',
+    },
+    {
       id: 'vibe',
       icon: `${this.FOOTER_SVG_PATH}/VIBE-logo.svg`,
       href: 'https://https://www.vibe.be/',

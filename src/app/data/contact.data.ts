@@ -58,4 +58,12 @@ export const CONTACT_LIST: IInfoContent[] = [
     linkText: 'Bekijk op Instagram',
     ariaLabel: 'Follow us on Instagram',
   },
+  {
+    id: 'LinkedIn',
+    title: 'Volg ons op LinkedIn',
+    description: "Bekijk onze LinkedIn-pagina voor de nieuwste updates en foto's.",
+    link: 'https://www.linkedin.com/in/3-100-thorbouw/',
+    linkText: 'Bekijk op LinkedIn',
+    ariaLabel: 'Follow us on LinkedIn',
+  },
 ];
