@@ -93,5 +93,5 @@ export const ADVIES_SNAKE_IMAGES: ISnakeImage[] = [
     alt: 'Foto van gelijksvloers in een huis gerenoveerd door Thorbouw',
   },
   { src: '/advies/SmallVertical3.webp', alt: 'Afgewerkte slaapkamer door Thorbouw' },
-  { src: '/advies/VerticalImage2.webp', alt: 'Foto van een deel van de woonkamen en keuken' },
+  { src: '/advies/VerticalImage4.webp', alt: 'Foto van veranda getrokken vanuit vijver' },
 ];
